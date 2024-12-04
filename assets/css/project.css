@@ -1,0 +1,28 @@
+table{
+    border-radius: 1px grey;
+    padding: 5px;
+    width: 100%;
+}
+
+th{
+    background-color: darkslategrey;
+    color: white;
+    font-weight: bold;
+}
+
+tr:nth-child(odd){
+    background-color: lightgrey;
+    color: black;
+}
+
+th, td{
+    border-radius: 1px lightgrey;
+}
+
+h1{
+    background-color: lightgray;
+    color: darkblue;
+    border-radius: 16px;
+    text-align: center;
+    padding: 10px;
+}
